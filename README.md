@@ -27,5 +27,3 @@ I love to modernize software and speed up things ⚡ I test my code, love DDD an
 ----
 
 <div style="text-align:center"><img align="center" alt="schmidthappens' Github Stats" src="https://github-readme-stats.vercel.app/api?username=schmidthappens&show_icons=true&hide_border=true" /></div>
-
-:tada:
